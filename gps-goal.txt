@@ -3,3 +3,4 @@ Goals for the GPS development
 - migrate the system from plug and play to configure each components manually
 - increase the accuracy by implementing x-Kalman Filter and encoder then add the IMU sensor if needed
 - test run
+- make the development report and submit to NIW
