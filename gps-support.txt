@@ -1,0 +1,1 @@
+For preparation in case the accuracy isn't good, we'll use IMU and do a more advanced sensor fusion
