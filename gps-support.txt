@@ -1,5 +1,6 @@
 - For preparation in case the accuracy isn't good, we'll use IMU and do a more advanced sensor fusion
 - For user interface, we'll use Mission Planner for the time being
-- Make the user manual or hands-on manual
+- Instruction manual for beginner and hands-on manual
+  ^ make the work flowchart
   ^ make the ppt instruction
-  ^ explanation session
+  ^ explanation session or a short training tutorial
