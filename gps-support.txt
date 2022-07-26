@@ -1,0 +1,2 @@
+- For preparation in case the accuracy isn't good, we'll use IMU and do a more advanced sensor fusion
+- For user interface, we'll use Mission Planner for the time being
